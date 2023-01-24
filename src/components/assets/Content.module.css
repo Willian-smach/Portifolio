@@ -1,0 +1,8 @@
+.content {
+    width: 55%;
+    min-height: 90%;
+    max-height: 90%;
+    padding: 1%;
+    align-self: flex-end;
+    margin-right: 5%;
+}

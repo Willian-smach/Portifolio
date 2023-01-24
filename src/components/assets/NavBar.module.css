@@ -1,0 +1,36 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 50px;
+    justify-content: end;
+    padding-right: 10%;
+}
+
+.navbar ul li {
+    list-style: none;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fefefe;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fefefe;
+}
+
+.btn {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #96f766!important;
+}
+
+.btn a{
+    color: #222!important;
+}
